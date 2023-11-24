@@ -2,6 +2,8 @@
 
 This project aims to predict the different stages of liver cirrhosis. It is a supervised learning problem of multi-class classification. 
 
+Run this project in Google Colab.
+
 <a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1SPGflw2zxkKzVcB_GK75khHFiwYczD4O?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
