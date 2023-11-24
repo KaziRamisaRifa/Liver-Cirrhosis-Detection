@@ -1,6 +1,7 @@
 # Liver-Cirrhosis-Detection
 
 This project aims to predict the different stages of liver cirrhosis. It is a supervised learning problem of multi-class classification. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" />
 
 Run this project in Google Colab.
 
