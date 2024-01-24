@@ -64,4 +64,4 @@ K-th Nearest Neighbors
 
 ## Credits
 
-This project was created by [KaziRamisaRifa](https://github.com/kaziramisarifa). An Standalone Machine Learning Project From Scratch.
+This project was created by [KaziRamisaRifa](https://github.com/kaziramisarifa). A Machine Learning Course Project under the Supervision of [Prof. Sifat Momen](http://ece.northsouth.edu/people/dr-sifat-momen/), Associate Professor, North South University
