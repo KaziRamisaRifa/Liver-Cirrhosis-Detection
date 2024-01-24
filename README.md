@@ -31,7 +31,7 @@ There are a total of 418 PBC cases in the dataset.
 https://www.kaggle.com/datasets/fedesoriano/cirrhosis-prediction-dataset
 ```
 
-# Dataset Visualization 
+# Dataset Visualization (Distribution Histogram)
 
 ![viz](images/Data%20Preprocessing/Attribute_histogram_plots.png)
 
